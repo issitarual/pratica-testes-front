@@ -38,6 +38,36 @@
       "valor": "10",
       "data": "20/08/2021",
       "id": 6
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "20/08/2021",
+      "id": 7
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "20/08/2021",
+      "id": 8
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "20/08/2021",
+      "id": 9
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "20/08/2021",
+      "id": 10
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "20/08/2021",
+      "id": 11
     }
   ]
 }

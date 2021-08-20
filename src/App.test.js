@@ -35,13 +35,13 @@ describe("Componente principal", () => {
       expect(novoSaldo).toBe(100);
     });
 
-    it("que é o saque, o valor vai ficar negativo", async () => {
+    it("que é o saque, o valor vai ficar negativo", () => {
       const valores = {
         transacao: "saque",
         valor: 50,
       };
 
-      const novoSaldo = await calcularNovoSaldo(valores, 0);
+      const novoSaldo = calcularNovoSaldo(valores, 0);
 
       expect(novoSaldo).toBe(-50);
     });
